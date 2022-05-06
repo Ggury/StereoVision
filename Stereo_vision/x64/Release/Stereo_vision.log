@@ -1,0 +1,17 @@
+﻿  Camera_calibrate.cpp
+C:\Users\ggury\source\repos\Stereo_vision\Stereo_vision\Camera_calibrate.cpp(18,37): warning C4244: аргумент: преобразование "int" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\ggury\source\repos\Stereo_vision\Stereo_vision\Camera_calibrate.cpp(18,34): warning C4244: аргумент: преобразование "int" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+  Создание кода
+  1 of 311 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Stereo_vision.vcxproj -> C:\Users\ggury\source\repos\Stereo_vision\x64\Release\Stereo_vision.exe
